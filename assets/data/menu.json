@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Home",
+        "href": "index.html",
+        "route": "index"
+    },
+    {
+        "name": "Movies",
+        "href": "movies.html",
+        "route": "movies"
+    },
+    {
+        "name": "Author",
+        "href": "author.html",
+        "route": "author"
+    },
+    {
+        "name": "Contact",
+        "href": "contact.html",
+        "route": "contact"
+    }
+]
+   
